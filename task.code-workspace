@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "task1-app"
+		},
+		{
+			"path": "task2-app"
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "vscode-icons",
+		"editor.fontSize": 12,
+		"window.zoomLevel": 0,
+		"vsicons.dontShowNewVersionMessage": true,
+		"workbench.colorTheme": "Solarized Light"
+	}
+}
